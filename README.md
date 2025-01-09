@@ -70,5 +70,4 @@ The model is not outstanding, and the following issues were observed:
 
 ---
 
-Check the jupyter notebook of the full implementation:  
-[jupyter nb](https://github.com/ayaelsaoudi1/Optimizing-CPL-for-Nuun-Digital/blob/main/Aya%20El%20Saoudi%20-%20MSBA%20Capstone%20Report%20.pdf).
+Check the jupyter notebook of the full implementation: [jupyter nb](https://github.com/ayaelsaoudi1/Using-OLS-to-predict-car-prices/Using linear regression to predict car prices.ipynb).
