@@ -69,3 +69,6 @@ The model is not outstanding, and the following issues were observed:
 4. Explore advanced regression techniques or other machine learning algorithms.
 
 ---
+
+Check the jupyter notebook of the full implementation:  
+[jupyter nb](https://github.com/ayaelsaoudi1/Optimizing-CPL-for-Nuun-Digital/blob/main/Aya%20El%20Saoudi%20-%20MSBA%20Capstone%20Report%20.pdf).
