@@ -70,4 +70,4 @@ The model is not outstanding, and the following issues were observed:
 
 ---
 
-Check the jupyter notebook of the full implementation: [jupyter nb][(https://github.com/ayaelsaoudi1/Using-OLS-to-predict-car-prices/blob/main/Using%20linear%20regression%20to%20predict%20car%20prices.ipynb).
+Check the jupyter notebook of the full implementation: [jupyter nb](https://github.com/ayaelsaoudi1/Using-OLS-to-predict-car-prices/blob/main/Using%20linear%20regression%20to%20predict%20car%20prices.ipynb).
